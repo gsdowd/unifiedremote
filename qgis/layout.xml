@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+	<row>
+		<button text="Identify Features" ontap="command1" />
+	</row>
+	<row>
+		<button text="Select Features" ontap="command2" />
+	</row>
+	<row>
+		<button text="Pan Map" ontap="command3" />
+	</row>
+</layout>
